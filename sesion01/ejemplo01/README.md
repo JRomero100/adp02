@@ -1,4 +1,4 @@
-[`Anślisis de Datos con Python`](../../Readme.md) > [`Sesión 1`](../Readme.md) > `Ejemplo 1`
+[`Análisis de Datos con Python`](../../Readme.md) > [`Sesión 1`](../Readme.md) > `Ejemplo 1`
 
 ## Ejemplo 1: Tipos de datos
 
