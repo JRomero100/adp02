@@ -69,4 +69,4 @@ dataframe[['address','latitude','longitude', 'ucr_ncic_code']]
 
 Si tienes dudas de cómo ejecutarlo pregunta a tu experto.
 
-[`Anterior`](../README.md) | [`Siguiente`](../reto02/README.md)
+[`Anterior`](../README.md#pandas-dataframes) | [`Siguiente`](../reto02/README.md)

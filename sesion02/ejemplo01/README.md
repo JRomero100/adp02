@@ -94,4 +94,4 @@ print("Suma: " + str(variable1+variable2))
 
 Si tienes dudas de cómo ejecutarlo pregunta a tu experto.
 
-[`Anterior`](../README.md) | [`Siguiente`](../reto01/README.md)
+[`Anterior`](../README.md#jupyter-notebooks) | [`Siguiente`](../reto01/README.md)

@@ -15,4 +15,4 @@
 
 Genera tres cuadernos, uno para usarlo con __Pandas__, otro con *__Matplotlib__*, y uno mas con *__NumPy__*. Cada cuaderno debe llevar el título, nombre y una breve introducción mediante una celda de __Markdown__.
 
-[`Anterior`](../ejemplo01/README.md) | [`Siguiente`](../README.md)
+[`Anterior`](../ejemplo01/README.md) | [`Siguiente`](../README.md#pandas-dataframes)

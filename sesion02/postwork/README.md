@@ -21,4 +21,4 @@
    - Elige los datos a graficar con `dataframe[‘…’].tolist()`.
    - Grafícalos con `matplotlib`
 
-[`Anterior`](../README.md) | [`Siguiente`](../README.md)
+[`Anterior`](../README.md#3-postwork-memo) | [`Siguiente`](../README.md#3-postwork-memo)

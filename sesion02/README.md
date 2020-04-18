@@ -62,7 +62,7 @@ $pip install jupyter
 
 #### <ins>*Matplotlib*</ins>
 
-> **Recuerda:** Un condicional permite tomar decisiones durante la ejecución de fragmentos de código dependiendo de un valor de verdad (`True`, `False`). Con una estructura `if` podemos tomar estas decisiones.
+> **Recuerda:** Con __Matplotlib__ puedes realizar gráficos de todo tipo. Para usar esta biblioteca escribir `import matplotlib.pyplot as plt`.
 
    - [**`EJEMPLO 3`**](ejemplo03/README.md)
 ---
@@ -74,4 +74,4 @@ Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 
 <br/>
 
-[`Anterior`](../README.md) | [`Siguiente`](../sesion02/README.md)
+[`Anterior`](../sesion01/README.md) | `Siguiente`

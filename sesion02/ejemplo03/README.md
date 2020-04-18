@@ -1056,4 +1056,4 @@ plt.show()
 
 Si tienes dudas de cómo ejecutarlo pregunta a tu experto.
 
-[`Anterior`](../README.md) | [`Siguiente`](../README.md)
+[`Anterior`](../README.md#matplotlib) | [`Siguiente`](../README.md#3-postwork-memo)
