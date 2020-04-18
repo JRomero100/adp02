@@ -1,4 +1,4 @@
-[`Análisis de Datos con Python`](../README.md) > `Sesión 1`
+[`Análisis de Datos con Python`](../README.md) > `Sesión 2`
 
 ## Sesión 2: Herramientas de *Data Scientist*
 
