@@ -35,4 +35,6 @@ print("Su tipo de dato finalmente es...")
 print(type(variable))
 ```
 
+Puedes ejecutar este programa usando directamente el intérprete de __Python__ u otras alternativas como __iPython__ o __Colab__ de Google. Si tienes dudad de cómo ejecutarlo pregunta a tu experto.
+
 [`Anterior`](../README.md#tipos-de-datos) | [`Siguiente`](../reto01/README.md)

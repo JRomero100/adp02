@@ -15,6 +15,8 @@ El contenido de esta sesión lo puedes encontrar en [GitBook](https://beduexpert
 ---
 #### <ins>Tipos de datos</ins>
 
+> **Recuerda:** Los tipos de datos son la abstracción de un conjunto de valores y permiten hacer operadores con valores especificos. Cada expresión en el lenguaje tiene asociado un tipo de dato.
+
    - [**`EJEMPLO 1`**](ejemplo01/README.md)
    - [**`RETO 1`**](reto01/README.md)
 ---
