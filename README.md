@@ -7,7 +7,7 @@
 **Grupo DABT042019**
 
 **Experto:** L. en C.C. Manuel Soto Romero  
-Sábados 9 a 15 hrs. Social Working Club.
+Sábados 9 a 15 hrs. En línea.
 
 ### Descripción
 
@@ -18,6 +18,6 @@ Este material es un complemento al [GitBook oficial](https://app.gitbook.com/@be
 ### Contenido
 
 - [Sesión 1: Introducción a __Python__](sesion01/README.md)
-- [Sesión 2: Herramientas para *Data Scientist*](sesion02/README.md)
+- [Sesión 2: Herramientas de *Data Scientist*](sesion02/README.md)
 
 [`Siguiente`](sesion01/README.md)
