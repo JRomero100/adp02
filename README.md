@@ -20,4 +20,9 @@ Este material es un complemento al [GitBook oficial](https://app.gitbook.com/@be
 - [Sesión 1: Introducción a __Python__](sesion01/README.md)
 - [Sesión 2: Herramientas de *Data Scientist*](sesion02/README.md)
 
+### Material adicional
+
+- [Guía rápida de GitHub](https://blog.desdelinux.net/guia-rapida-para-utilizar-github/)
+- [Platilla proyectos](plantilla.md)
+
 [`Siguiente`](sesion01/README.md)
