@@ -44,4 +44,4 @@ Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 
 <br/>
 
-[`Anterior`](../sesion01/README.md) | `Siguiente`
+[`Anterior`](../sesion02/README.md) | [`Siguiente`](../sesion04/README.md)
