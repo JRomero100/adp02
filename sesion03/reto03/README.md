@@ -20,4 +20,4 @@ Con lo apredido hasta ahora crea tu propia función de producto punto.
 - Accede a los valores con `MatrizA([0,0]) * MatrizB([0,0])` ...
 - El resultado guárdalo en una matriz `resultado`
 
-[`Anterior`](../ejemplo01/README.md) | [`Siguiente`](../README.md#pandas-dataframes)
+[`Anterior`](../ejemplo04/README.md) | [`Siguiente`](../README.md##insoperaciones-punto-a-punto-y-funciones-con-numpyins)

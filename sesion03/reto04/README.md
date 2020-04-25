@@ -39,4 +39,4 @@ Funciones de __NumPy__ que te servirán:
 - `np.arcsin(x)`
 - `np.sqrt(x)`
 
-[`Anterior`](../ejemplo01/README.md) | [`Siguiente`](../README.md#pandas-dataframes)
+[`Anterior`](../ejemplo05/README.md) | [`Siguiente`](../README.md#3-postwork-memo)

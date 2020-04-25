@@ -19,4 +19,4 @@ Descarga el cuaderno de __Jupyter__ [`Ejemplo2.ipynb`](codigos/Ejemplo2.ipynb) y
 
 Si tienes dudas de cómo ejecutarlo pregunta a tu experto.
 
-[`Anterior`](../README.md#jupyter-notebooks) | [`Siguiente`](../reto01/README.md)
+[`Anterior`](../README.md#insarreglos-matrices-y-cubosins) | [`Siguiente`](../README.md#insfiltrado-y-limpieza-de-datos-con-numpyins)

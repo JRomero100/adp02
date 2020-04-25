@@ -18,4 +18,4 @@ Descarga el cuaderno de __Jupyter__ [`Ejemplo1.ipynb`](codigos/Ejemplo1.ipynb) y
 
 Si tienes dudas de cómo ejecutarlo pregunta a tu experto.
 
-[`Anterior`](../README.md#jupyter-notebooks) | [`Siguiente`](../reto01/README.md)
+[`Anterior`](../README.md#insacerca-de-numpy-y-arreglosins) | [`Siguiente`](../reto01/README.md)

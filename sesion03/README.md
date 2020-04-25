@@ -9,6 +9,7 @@
 - Aprender sobre __NumPy__ y algunas funciones básicas para *Data Science*.
 
 ### 2. Contenido :blue_book:
+<img src="imagenes/imagen1.gif" align="right" width="300" height="300" hspace="10">
 
 El contenido de esta sesión lo puedes encontrar en [GitBook](https://beduexpert.gitbook.io/data-analysis/sesion-03-analisis-estadistico-de-datos-numpy).
 

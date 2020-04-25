@@ -17,4 +17,4 @@
 
 En este reto deberás cargar un archivo el archivo `CrimeReports.csv` a un `Dataframe` de __Pandas__, y una vez cargado, tomar una columna, y transformarla a un objeto de __NumPy__ para que puedas procesarla. Para hacer la conversión puedes usar la `to_numpy_` de __Pandas__.
 
-[`Anterior`](../ejemplo01/README.md) | [`Siguiente`](../README.md#pandas-dataframes)
+[`Anterior`](../ejemplo01/README.md) | [`Siguiente`](../README.md#insarreglos-matrices-y-cubosins)

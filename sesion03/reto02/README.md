@@ -20,4 +20,4 @@ Con lo apredido hasta ahora:
 - Genera un filtro que deje pasar sólo los valores mayores a 0.5.
 - Imprime el resultado.
 
-[`Anterior`](../ejemplo01/README.md) | [`Siguiente`](../README.md#pandas-dataframes)
+[`Anterior`](../ejemplo03/README.md) | [`Siguiente`](../README.md#insacceso-a-datos-y-funciones-útiles-de-numpyins)
