@@ -19,6 +19,7 @@ Este material es un complemento al [GitBook oficial](https://app.gitbook.com/@be
 
 - [Sesión 1: Introducción a __Python__](sesion01/README.md)
 - [Sesión 2: Herramientas de *Data Scientist*](sesion02/README.md)
+- [Sesión 3: __NumPy__ para *Data Science*](sesion03/README.md)
 
 ### Material adicional
 
