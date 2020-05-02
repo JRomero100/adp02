@@ -20,4 +20,4 @@
 
 - Mete los tres diccionarios en una lista de __Python__ llamada `contactos`.
 
-[`Anterior`](../ejemplo01/README.md) | [`Siguiente`](../README.md#insarreglos-matrices-y-cubosins)
+[`Anterior`](../reto01/README.md) | [`Siguiente`](../README.md#insmanipulación-de-archivos-jsonins)

@@ -17,4 +17,4 @@
 - Describete a ti mism@ con un diccionario de __Python__.
 - Ponte creativo y usa características que no hayas mencionado.
 
-[`Anterior`](../ejemplo01/README.md) | [`Siguiente`](../README.md#insarreglos-matrices-y-cubosins)
+[`Anterior`](../README.md#insdiccionariosins) | [`Siguiente`](../reto02/README.md)

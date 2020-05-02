@@ -18,7 +18,7 @@
 
 El contenido de esta sesión lo puedes encontrar en [GitBook](https://beduexpert.gitbook.io/data-analysis/sesion-04-analisis-exploratorio-de-datos-diccionarios-y-pandas).
 
-Todos los ejemplos se encuentran en: [**`EJEMPLOS`**](ejemplo01/README.md)
+Todos los ejemplos se encuentran en: [**`EJEMPLOS`**](ejemplos/README.md)
 
 #### <ins>Diccionarios</ins>
 
@@ -31,7 +31,7 @@ Todos los ejemplos se encuentran en: [**`EJEMPLOS`**](ejemplo01/README.md)
 
 #### <ins>Análisis exploratorio de datos</ins>
 
-   - [**`RETO 4`**](reto02/README.md)
+   - [**`RETO 4`**](reto04/README.md)
 
 ### 3. Postwork :memo:
 Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
@@ -40,4 +40,4 @@ Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 
 <br/>
 
-[`Anterior`](../sesion01/README.md) | `Siguiente`
+[`Anterior`](../sesion03/README.md) | [`Siguiente`](../sesion05/README.md)
