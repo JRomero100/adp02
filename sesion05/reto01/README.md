@@ -24,4 +24,6 @@ Intenta practicar la limpieza de datos con la base de datos meteoritos.
 
 **Esto es clave para la siguiente fase de la sesión**
 
+[**`SOLUCIÓN`**](Reto01.ipynb)
+
 [`Anterior`](../ejemplo01/README.md) | [`Siguiente`](../README.md#insnormalización-de-datosins)
