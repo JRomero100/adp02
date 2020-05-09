@@ -23,6 +23,7 @@ Este material es un complemento al [GitBook oficial](https://app.gitbook.com/@be
 - [Sesión 4: Diccionarios, JSON, y Análisis Exploratorio de Datos](sesion04/README.md)
 - [Sesión 5: Procesamiento y Transformación de Datos](sesion05/README.md)
 - [Sesión 6: Visualización de datos con __MatPlotLib__](sesion06/README.md)
+- [Sesión 7: Regresión Lineal en __Python__](sesion07/README.md)
 
 ### Material adicional
 
