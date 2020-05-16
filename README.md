@@ -30,5 +30,6 @@ Este material es un complemento al [GitBook oficial](https://app.gitbook.com/@be
 
 - [Guía rápida de GitHub](https://blog.desdelinux.net/guia-rapida-para-utilizar-github/)
 - [Platilla proyectos](plantilla.md)
+- [Ejemplo de integración](casas.ipynb)
 
 [`Siguiente`](sesion01/README.md)
